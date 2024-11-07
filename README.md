@@ -1,4 +1,4 @@
-# EX 01:Fitting Poisson  distribution
+# EX 02:Fitting Poisson  distribution
 # DATE :07/09/2024
 # Aim : 
 
